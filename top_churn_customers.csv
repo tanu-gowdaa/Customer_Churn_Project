@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,Churn_Probability,Segment
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn_Probability,Risk_Category,High
+6908,Female,0,1,0,35,1,2,"Fiber optic",0,0,0,0,0,0,Month-to-month,1,2,75.2,2576.2,0.45190775143116096,Low,High
+2665,Male,0,1,1,63,1,0,DSL,2,2,2,2,2,0,"Two year",0,1,75.55,4707.85,0.047213247463265856,Low,High
+4569,Male,0,1,0,71,1,2,DSL,2,2,2,2,2,2,"Two year",0,0,87.95,6365.35,0.04755413187075732,Low,High
+4313,Male,0,1,0,16,1,2,"Fiber optic",0,0,0,0,1,0,Month-to-month,1,2,84.7708638657556,1390.30723980491,0.9379957954527901,High,High
+6952,Male,0,1,1,72,0,1,DSL,0,2,2,2,2,2,"Two year",1,2,60.0,4264.0,0.048675515287784916,Low,High
+2982,Male,0,0,0,16,0,0,DSL,2,0,0,2,1,1,Month-to-month,0,0,83.4580712532217,1110.38382985752,0.9306983145739252,High,High
+5792,Male,0,0,0,11,1,2,"Fiber optic",0,0,2,0,2,2,Month-to-month,1,0,97.85,1105.4,0.9180302022638515,High,High
+4370,Female,0,0,0,46,0,1,DSL,2,0,0,0,0,0,"One year",1,0,30.75,1489.3,0.05173259567896254,Low,High
+5332,Female,0,0,0,12,1,2,"Fiber optic",0,0,0,0,2,0,Month-to-month,1,2,91.8329240406183,1128.7526080074,0.8888209431141254,High,High
